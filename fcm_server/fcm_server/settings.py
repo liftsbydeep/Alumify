@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-x-ej8##@54eggtuu6_rli(dep%02*wqr9(-b$1x($lyijyho!p
 
 # SECURITY WARNING: don't run with debug turned on 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://alumify-lreswcof2-liftsbydeeps-projects.vercel.app']
 
 
 # Application definition
